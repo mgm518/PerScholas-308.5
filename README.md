@@ -34,4 +34,4 @@ The assignment for today is to complete the HackerRank challenges.  I will be su
   
   ![Button Container Demo](screenshots/button-container%202024-05-16%2015%2010%2015.png)
 
-[^Note]: As of right now (May 16, 2024), HackerRank is experiencing an issue with accepting HTML project submissions.  It seems the error is with HackerRanks' API refusing a cross-origin request.  Here's a [screenshot of the error](screenshots/issue%20-%202024-05-16%2015%2000%2059.png).  Submission screenshots will consist of the javascript and rendering of the code's functionality.
+[^Note]: As of right now (May 16, 2024), HackerRank is experiencing an issue with accepting HTML project submissions.  It seems the error is with HackerRanks' API refusing a cross-origin request.  Here's a [screenshot of the error](screenshots/issue.png).  Submission screenshots will consist of the javascript and rendering of the code's functionality.
